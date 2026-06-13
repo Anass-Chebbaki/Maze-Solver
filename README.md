@@ -127,7 +127,7 @@ app/
 The backend address lives in `PrologEngine.kt`:
 
 ```kotlin
-private val SERVER_URL = "http://172.20.10.4:5000/solve"
+private val SERVER_URL = "YOUR_SERVER_URL_HERE"
 ```
 
 Replace the IP with your backend's address. For a cleaner setup, consider moving
